@@ -1,17 +1,22 @@
 ## Hi there 👋
 ![GitHubBanner](https://github.com/user-attachments/assets/fde29152-1f45-410f-912e-09e2dcb0076c)
+
+Soy un programador con varios años de experiencia en el desarrollo de aplicaciones multimedia, graduado por la universidad de UDIT  en desarrollo de Videojuegos, master en VFX en Animum School y recientemente graduado por 4Geeks Academy en Full Stack Developer.
+Con los años descubrí que el apartado técnico de los proyectos es el que más me apasiona y he decidico cambiar al un perfil de programador que me atrae mas y se adapta mejor a mis capacidades.
+
+- 🌱 Actualmente aprendiendo y profundizando conocimientos con diversos cursos de forma autodidacta en Full Stack
+- 📫 Contáctame en Viesca010@gmail.com
+
 <!--
 **ViesK/ViesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-![GitHubBanner](https://github.com/user-attachments/assets/fde29152-1f45-410f-912e-09e2dcb0076c)
+Soy un programador con varios años de experiencia en el desarrollo de aplicaciones multimedia, graduado por la universidad de UDIT  en desarrollo de Videojuegos, master en VFX en Animum School y recientemente graduado por 4Geeks Academy en Full Stack Developer.
+Con los años descubrí que el apartado técnico de los proyectos es el que más me apasiona y he decidico cambiar al un perfil de programador que me atrae mas y se adapta mejor a mis capacidades.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 Contáctame en Viesca010@gmail.com
 - ⚡ Fun fact: ...
 -->
