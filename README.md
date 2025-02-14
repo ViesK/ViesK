@@ -1,9 +1,10 @@
 ## Hi there 👋
-
+![GitHubBanner](https://github.com/user-attachments/assets/fde29152-1f45-410f-912e-09e2dcb0076c)
 <!--
 **ViesK/ViesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![GitHubBanner](https://github.com/user-attachments/assets/fde29152-1f45-410f-912e-09e2dcb0076c)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
