@@ -1,8 +1,8 @@
 ## Hi there 👋
 ![GitHubBanner](https://github.com/user-attachments/assets/fde29152-1f45-410f-912e-09e2dcb0076c)
 
-Soy un programador con varios años de experiencia en el desarrollo de aplicaciones multimedia, graduado por la universidad de UDIT  en desarrollo de Videojuegos, master en VFX en Animum School y recientemente graduado por 4Geeks Academy en Full Stack Developer.
-Con los años descubrí que el apartado técnico de los proyectos es el que más me apasiona y he decidico cambiar al un perfil de programador que me atrae mas y se adapta mejor a mis capacidades.
+Soy un programador con varios años de experiencia en el desarrollo de aplicaciones multimedia, graduado por la universidad de UDIT en desarrollo de Videojuegos, máster en VFX en Animum School y más recientemente graduado por 4Geeks Academy en Full Stack Developer.
+Con los años descubrí que el apartado técnico de los proyectos es el que más me apasiona y he decidido cambiar al un perfil de programador que me atrae más y se adapta mejor a mis capacidades.
 
 - 🌱 Actualmente aprendiendo y profundizando conocimientos con diversos cursos de forma autodidacta en Full Stack
 - 📫 Contáctame en Viesca010@gmail.com
