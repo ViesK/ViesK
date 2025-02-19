@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHubBanner](https://github.com/user-attachments/assets/fde29152-1f45-410f-912e-09e2dcb0076c)
+![GitHubBanner2](https://github.com/user-attachments/assets/a47d0e9d-635c-4a27-b677-5df4bc277ddf)
 
 Soy un programador con varios años de experiencia en el desarrollo de aplicaciones multimedia, graduado por la universidad de UDIT en desarrollo de Videojuegos, máster de VFX en Animum School y más recientemente graduado por 4Geeks Academy en Full Stack.
 
