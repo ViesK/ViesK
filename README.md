@@ -6,9 +6,9 @@ Soy un programador con varios años de experiencia en el desarrollo de aplicacio
 Con los años descubrí que el apartado técnico de los proyectos es el que más me apasiona y he decidido cambiar al un perfil de programador que me atrae más y se adapta mejor a mis capacidades.
 - 🔭 En búsqueda de trabajo como programador Full Stack.
 - 🌱 Actualmente aprendiendo y profundizando conocimientos con diversos cursos de forma autodidacta en Full Stack.
-- 📚 Trabajo con: HTML, CSS, JS, React, Python, SQL, SQLAlchmy, C#
+- 📚 Trabajo con: HTML, CSS, JS, React, Next, Python, SQL, SQLAlchmy, C#
 - 💻 No hay crecimiento sin desafío. Busco proyectos que me saquen de mi zona de confort y me lleven al siguiente nivel
-- 📫 Contáctame en Viesca010@gmail.com
+- 📫 Contáctame en ViescaWork@gmail.com
 
 <!--
 **ViesK/ViesK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
